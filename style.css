@@ -1,9 +1,16 @@
+/* Seu arquivo estilo.css */
 
+/* Define a cor de fundo para todas as divs e a fonte Roboto para todo o corpo da página */
 div {
   background-color: rgb(252, 202, 126);
 }
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Estiliza o parágrafo */
 p {
-    font-family: "Brush Script MT";
-    font-size: 16px;
-    color: rgb(0, 0, 0);
-  }
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+}
